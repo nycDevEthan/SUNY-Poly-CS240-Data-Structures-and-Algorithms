@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448062156 source:c:\users\ethan\desktop\cs 240\ghp5\ghp5.cpp
+	<iostream>
+	<stack>
+	<queue>
+

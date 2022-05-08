@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1445650345 source:c:\users\ethan\desktop\cs 240\ghp3\ghp3.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cassert>
+

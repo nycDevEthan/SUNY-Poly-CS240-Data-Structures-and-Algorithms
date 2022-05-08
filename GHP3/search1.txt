@@ -1,0 +1,6 @@
+plus plus
+program
+search for plus
+string plus
+string
+word

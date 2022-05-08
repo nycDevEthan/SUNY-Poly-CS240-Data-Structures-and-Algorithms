@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1450231654 source:c:\users\ethan\desktop\cs 240\ghp7\hashdriver.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"hash.h"
+
+1450229882 c:\users\ethan\desktop\cs 240\ghp7\hash.h
+	<iostream>
+	<string>
+
+1450231767 source:c:\users\ethan\desktop\cs 240\ghp7\hashimplement.cpp
+	<iostream>
+	<string>
+	"hash.h"
+

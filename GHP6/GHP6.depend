@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449534342 source:c:\users\ethan\desktop\cs 240\ghp6\ghp6.cpp
+	<iostream>
+	<list>
+	<algorithm>
+
